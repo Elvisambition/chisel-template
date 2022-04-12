@@ -3,4 +3,4 @@
 &ensp;&ensp;scala == 2.12.13  
 &ensp;&ensp;chisel == 3.5.0   
 &ensp;&ensp;chiselTest == 0.5.0   
-#Put it on github just because I'll be handy to use. In fact, this thing has no value.
+# Put it on github just because I'll be handy to use. In fact, this thing has no value.
